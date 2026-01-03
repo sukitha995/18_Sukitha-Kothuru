@@ -77,8 +77,7 @@ The dataset contains 7,000+ customer records and is suitable for churn predictio
   - Precision
   - Recall
 - Display:
-  - Confusion Matrix
-  - ROC-AUC score
+  - Churn Probability
 
 ---
 
