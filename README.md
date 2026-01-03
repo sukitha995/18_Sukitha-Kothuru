@@ -67,6 +67,7 @@ The dataset contains 7,000+ customer records and is suitable for churn predictio
 - Split data into training and testing sets
 - Train a churn prediction model
 - Generate churn probability scores
+- if time permits we use LightGBM 
 
 ---
 
