@@ -62,6 +62,8 @@ The dataset contains 7,000+ customer records and is suitable for churn predictio
 ---
 
 ### Step 2: Model Training
+- A Random Forest model is initialized.
+- Random Forest is chosen because it can capture non-linear relationships, handle mixed feature types, and provide robust performance for churn prediction problems.
 - Split data into training and testing sets
 - Train a churn prediction model
 - Generate churn probability scores
